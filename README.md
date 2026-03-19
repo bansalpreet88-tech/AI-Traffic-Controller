@@ -1,4 +1,5 @@
 🧠Project Title: "AI-Based Traffic Signal Control System"
+
 🚦 AI Traffic Controller
 
 An intelligent traffic management system that uses Artificial Intelligence to optimize traffic flow, reduce congestion, and improve road safety.
@@ -6,18 +7,31 @@ An intelligent traffic management system that uses Artificial Intelligence to op
 📌 Overview
 The AI Traffic Controller project is designed to automate traffic signal management using AI techniques. It analyzes real-time traffic conditions and dynamically adjusts signal timings to ensure efficient vehicle movement.
 This system can be applied in smart cities to reduce waiting time, fuel consumption, and traffic jams.
+
 🎯 Objectives:
+
 Reduce traffic congestion
+
 Minimize waiting time at signals
+
 Improve emergency vehicle movement
+
 Optimize traffic signal timing using AI
+
 Enhance road safety
+
 🧠 Features:
+
 🚗 Real-time traffic detection
+
 📊 Intelligent decision-making using AI/ML
+
 ⏱️ Dynamic signal timing adjustment
+
 🚑 Priority for emergency vehicles
+
 📉 Traffic congestion analysis
+
 🏗️ System Architecture
 
 Input Layer
