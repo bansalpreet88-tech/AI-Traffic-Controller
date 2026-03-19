@@ -4,7 +4,8 @@
 
 An intelligent traffic management system that uses Artificial Intelligence to optimize traffic flow, reduce congestion, and improve road safety.
 
-📌 Overview
+📌 Overview:
+
 The AI Traffic Controller project is designed to automate traffic signal management using AI techniques. It analyzes real-time traffic conditions and dynamically adjusts signal timings to ensure efficient vehicle movement.
 This system can be applied in smart cities to reduce waiting time, fuel consumption, and traffic jams.
 
