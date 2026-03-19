@@ -1,0 +1,14 @@
+traffic control
+accident detection
+priority controller (ambulance,police,fire brigade)
+    level 1 : 
+        cargo vehicle
+        trucks 
+        and other multi tired vehicle
+    level 2 :
+        4 wheelers
+    level 3 :
+        2 wheelers
+    level 4 :
+        pedesterians
+multiple lane controller
